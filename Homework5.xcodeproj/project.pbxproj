@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		0C0179C8265F896100C0C1B0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0179C7265F896100C0C1B0 /* main.swift */; };
+		0C80A1D8265FE1E500BFC2E6 /* Bai1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80A1D7265FE1E500BFC2E6 /* Bai1.swift */; };
+		0C80A1DA265FE82100BFC2E6 /* Bai2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80A1D9265FE82100BFC2E6 /* Bai2.swift */; };
+		0C80A1DC265FF91100BFC2E6 /* Bai3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80A1DB265FF91100BFC2E6 /* Bai3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		0C0179C4265F896100C0C1B0 /* Homework5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Homework5; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C0179C7265F896100C0C1B0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0C80A1D7265FE1E500BFC2E6 /* Bai1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai1.swift; sourceTree = "<group>"; };
+		0C80A1D9265FE82100BFC2E6 /* Bai2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai2.swift; sourceTree = "<group>"; };
+		0C80A1DB265FF91100BFC2E6 /* Bai3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bai3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				0C0179C7265F896100C0C1B0 /* main.swift */,
+				0C80A1DB265FF91100BFC2E6 /* Bai3.swift */,
+				0C80A1D7265FE1E500BFC2E6 /* Bai1.swift */,
+				0C80A1D9265FE82100BFC2E6 /* Bai2.swift */,
 			);
 			path = Homework5;
 			sourceTree = "<group>";
@@ -119,6 +128,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C80A1DC265FF91100BFC2E6 /* Bai3.swift in Sources */,
+				0C80A1D8265FE1E500BFC2E6 /* Bai1.swift in Sources */,
+				0C80A1DA265FE82100BFC2E6 /* Bai2.swift in Sources */,
 				0C0179C8265F896100C0C1B0 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
